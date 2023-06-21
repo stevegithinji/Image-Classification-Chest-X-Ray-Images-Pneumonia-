@@ -12,6 +12,17 @@ The images are in JPEG format and typically grayscale, with varying resolutions 
 https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 In the images depicted above class 0 represents chest X-ray images without pneumonia, while class 1 contains images with pneumonia. Differentiating between these two classes is challenging due to their visual similarity. Therefore, there is a need for a more accurate and effective model that can easily distinguish between them and improve pneumonia detection.
+#### Data Distribution
+The bar charts below show the distribution of the images in terms of normal or positive for pneumonia in the training, test & validation datasets:
+
+![Screenshot (56)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/d2b1bab4-6c65-4bb6-a8a7-b75db9d74732)
+
+![Screenshot (54)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/62d66ce4-17c7-4f24-92b0-074903e30c63)
+
+![Screenshot (55)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/7986b26a-02cf-4f96-854b-0602e1a26d00)
+
+
+
 
 ## Project Goals and Objectives
 The main goal of this undertaking is to create a Neural Network model capable of reliably categorizing chest X-ray pictures as having or not having pneumonia.
