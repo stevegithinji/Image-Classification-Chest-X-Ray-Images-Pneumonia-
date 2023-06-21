@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 ## Project Goals and Objectives
 The main goal of this undertaking is to create a Neural Network model capable of reliably categorizing chest X-ray pictures as having or not having pneumonia.
-Objectives:
+This is achieved though the following objectives:
 1. Train and refine a Neural Network model to obtain high accuracy in categorizing chest X-ray pictures as positive or negative for pneumonia.
 2. Validate the trained model using appropriate evaluation metrics and datasets to ensure its robustness and generalizability in real-world scenarios.
 3. Document and communicate the findings and insights from the project to contribute to the scientific community's knowledge and advance the field of pneumonia 
