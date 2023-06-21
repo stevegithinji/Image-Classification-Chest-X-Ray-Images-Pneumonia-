@@ -51,7 +51,7 @@ A high recall score is desirable in medical diagnosis tasks like pneumonia detec
 
 Therefore, a recall score of *0.93* suggests that the model has a strong ability to accurately detect pneumonia cases in the X-ray images, which is a positive outcome for the classification task.
 
-Despite our efforts, it is important to acknowledge that the model's performance fell short of the targeted accuracy of 85%. While achieving high accuracy is desirable, it is not always guaranteed, especially in complex and challenging tasks like pneumonia detection from X-ray images.
+Despite our efforts, it is important to acknowledge that the model's performance fell short of the targeted accuracy of *85%*. While achieving high accuracy is desirable, it is not always guaranteed, especially in complex and challenging tasks like pneumonia detection from X-ray images.
 
 Several factors might have contributed to the inability to reach the desired accuracy: limited data, the complexity of the task, chosen model architecture and its capacity to capture relevant features, and the sensitivity of the model to hyperparameters. Pneumonia detection from X-ray images can be affected by various factors, including imaging artifacts, inter-patient variability, and the presence of other lung conditions. These challenges can make accurate classification more difficult, even with a well-designed model.
 
