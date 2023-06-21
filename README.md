@@ -45,14 +45,17 @@ These results indicate the performance of each of the models on the test dataset
 A recall score of *0.93* for the *"PNEUMONIA"* class means that the model correctly identified *93%* of the actual pneumonia cases in the dataset. This indicates a high sensitivity of the model in detecting pneumonia, as it has a low likelihood of missing positive cases.
 
 ## Conclusion
-In conclusion, we have developed an image classification model for detecting pneumonia from X-ray images. After training the model on a dataset of X-ray images, we achieved an accuracy of 83% on the training dataset and a loss of 0.37.
+In conclusion, we have developed an image classification model for detecting pneumonia from X-ray images. After training the model on a dataset of X-ray images, we achieved an accuracy of *83%* on the training dataset and a loss of *0.37*.
 
 A high recall score is desirable in medical diagnosis tasks like pneumonia detection because it is crucial to minimize false negatives (missing positive cases). In the context of pneumonia, a false negative would mean failing to identify a patient with pneumonia, leading to potential health risks and delayed treatment.
 
-Therefore, a recall score of 0.93 suggests that the model has a strong ability to accurately detect pneumonia cases in the X-ray images, which is a positive outcome for the classification task.
+Therefore, a recall score of *0.93* suggests that the model has a strong ability to accurately detect pneumonia cases in the X-ray images, which is a positive outcome for the classification task.
 
 Despite our efforts, it is important to acknowledge that the model's performance fell short of the targeted accuracy of 85%. While achieving high accuracy is desirable, it is not always guaranteed, especially in complex and challenging tasks like pneumonia detection from X-ray images.
 
 Several factors might have contributed to the inability to reach the desired accuracy: limited data, the complexity of the task, chosen model architecture and its capacity to capture relevant features, and the sensitivity of the model to hyperparameters. Pneumonia detection from X-ray images can be affected by various factors, including imaging artifacts, inter-patient variability, and the presence of other lung conditions. These challenges can make accurate classification more difficult, even with a well-designed model.
 
 ## Recommendations
+* Pan African Medical Training and Research should use our CNN model for X-ray image classification in the field and also when training researchers in class.
+
+* Deploy the developed image classification model for pneumonia detection from X-ray images in the real world. It will be useful in assisting healthcare professionals in the diagnosis of pneumonia., increase efficiency and speed in diagnosis and act as a second opinion.
