@@ -15,11 +15,11 @@ In the images depicted above class 0 represents chest X-ray images without pneum
 #### Data Distribution
 The bar charts below show the distribution of the images in terms of normal or positive for pneumonia in the training, test & validation datasets:
 
-![Screenshot (56)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/d2b1bab4-6c65-4bb6-a8a7-b75db9d74732)
+![download](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/42059856-c5a3-498e-adba-5dab9521cac4)
 
-![Screenshot (54)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/62d66ce4-17c7-4f24-92b0-074903e30c63)
+![download (1)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/aad915d5-a97a-4e38-8adb-97d8f58ae64c)
 
-![Screenshot (55)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/7986b26a-02cf-4f96-854b-0602e1a26d00)
+![download (2)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/3a67cf48-54b8-4060-9061-5ac814596b7c)
 
 
 
