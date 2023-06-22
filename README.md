@@ -5,7 +5,8 @@
 Pneumonia, a serious respiratory infection caused by viruses or bacteria, is a worldwide public health concern. It is the greatest infectious cause of death in children worldwide, killing around 740,180 children in 2019. Furthermore, vulnerable populations such as elders, smokers, and people with underlying health concerns are more vulnerable. While pneumonia has a terrible impact on communities and families, it can be prevented and treated with basic actions and low-cost drugs. The importance of early detection and proper diagnosis in saving lives and minimizing the burden cannot be overstated. Despite limited resources in low- and middle-income nations, focusing on prevention and access to reasonable therapies can lower death rates dramatically.
 
 ## Data Understanding
-   ![Screenshot (52)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/c48b920d-3fd3-4c70-a3b6-f8e2bcc716c4)
+  ![download (3)](https://github.com/stevegithinji/Image-Classification-Chest-X-Ray-Images-Pneumonia-/assets/123490766/57403694-e9a3-4153-8e3f-a8517122334e)
+
 
 The Chest X-Ray dataset focuses on pneumonia detection in chest X-ray images. It consists of a collection of chest radiographs labeled as either "normal" or "pneumonia" cases. The dataset has been derived from multiple sources, including pediatric and adult patients, and encompasses various types of pneumonia, such as bacterial and viral.
 The images are in JPEG format and typically grayscale, with varying resolutions and sizes. The dataset contains training and testing subsets, enabling the development and evaluation of machine-learning models for pneumonia detection.
